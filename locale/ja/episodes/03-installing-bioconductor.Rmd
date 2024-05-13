@@ -283,15 +283,10 @@ remove.packages("S4Vectors")
 ```
 
 [bioc-release-dates]: https://bioconductor.org/about/release-announcements/
-
 [discuss-release-cycle]: discuss.html#the-bioconductor-release-cycle
-
 [glossary-biocviews]: reference.html#biocviews
-
 [crossref-intro-biocviews]: https://carpentries-incubator.github.io/bioc-project/02-introduction-to-bioconductor/index.html#package-classification-using-biocviews
-
 [glossary-software-package]: reference.html#software-package
-
 [glossary-annotation-package]: reference.html#annotationdata-package
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
