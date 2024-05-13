@@ -654,9 +654,7 @@ You can also find more examples and use cases in the package vignettes, accessib
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [glossary-s4-class]: reference.html#s4-class
-
 [ensembl-ftp]: https://www.ensembl.org/info/data/ftp/
-
 [ucsc-genome-data]: https://hgdownload.soe.ucsc.edu/downloads.html
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
