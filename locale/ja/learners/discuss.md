@@ -96,13 +96,8 @@ After a new release branch is created, the version of every single package on th
 This includes the `r BiocStyle::Biocpkg("BiocVersion")` package, which marks the value of the next version of Bioconductor.
 
 [bioc-website]: https://bioconductor.org
-
 [cran-website]: https://cran.r-project.org
-
 [cran-packages]: https://cran.r-project.org/web/packages/index.html
-
 [cran-first-release]: https://stat.ethz.ch/pipermail/r-announce/1997/000001.html
-
 [bioc-packages]: https://bioconductor.org/news/bioc_3_13_release/
-
 [biocviews-site]: https://www.bioconductor.org/packages/release/BiocViews.html
