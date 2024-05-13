@@ -177,7 +177,7 @@ The [Bioconductor Slack workspace][bioc-slack] was created in 2016.
 
 The workspace can be freely joined using this [Heroku app][bioc-slack-heroku] to generate invitations for individual email addresses.
 
-The Bioconductor Slack workspace is a lively online platform for official announcements by the [Bioconductor Core Team][bioc-core-team] (e.g., Bioconductor release, conferences & events), as well as informal discussions between groups of users subscribed to thematic channels, and direct messages between community members.
+The Bioconductor Slack workspace is a lively online platform for official announcements by the [Bioconductor Core Team][bioc-core-team] (e.g., Bioconductor release, conferences \& events), as well as informal discussions between groups of users subscribed to thematic channels, and direct messages between community members.
 
 The workspace features a large number of channels dedicated to particular topics and areas of interest in the community.
 Those channels range from active fields of research (e.g., single-cell genomics), to time-limited events (e.g., conferences), but also community outreach (e.g., diversity and representation).
@@ -227,25 +227,15 @@ Finally, the [Bioconductor support site][bioc-support-site] is the preferred pla
 This is because questions are visible to the entire community, including many experienced Bioconductor users who regularly answer those questions, and other users who can find answers to questions that were already posted and resolved by the time they run into the issue themselves.
 
 [bioc-website]: https://www.bioconductor.org/
-
 [biocviews-site]: https://www.bioconductor.org/packages/release/BiocViews.html
-
 [bioc-courses-conferences-materials]: https://bioconductor.org/help/course-materials/
-
 [glossary-vignette]: reference.html#vignette
-
 [glossary-experiment-package]: reference.html#experimentdata-package
-
 [bioc-support-site]: https://support.bioconductor.org/
-
 [self-package-landing-page]: ..html#package-landing-pages
-
 [biocviews-workflow]: https://www.bioconductor.org/packages/release/BiocViews.html#___Workflow
-
 [bioc-slack]: https://community-bioc.slack.com/
-
 [bioc-slack-heroku]: https://bioc-community.herokuapp.com/
-
 [bioc-core-team]: https://www.bioconductor.org/about/core-team/
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
