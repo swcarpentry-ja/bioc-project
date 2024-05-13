@@ -407,15 +407,10 @@ A number of standard operations with `Rle` objects are documented in the help pa
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [r-package-methods]: https://stat.ethz.ch/R-manual/R-devel/library/methods/html/00Index.html
-
 [book-advanced-r-s4]: https://adv-r.had.co.nz/S4.html
-
 [glossary-s4-class]: reference.html#s4-class
-
 [glossary-s4-method]: reference.html#s4-method
-
 [glossary-s4-dispatch]: reference.html#s4-method-dispatch
-
 [r-package-base]: https://stat.ethz.ch/R-manual/R-devel/library/base/html/00Index.html
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
