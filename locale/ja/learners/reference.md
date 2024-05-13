@@ -4,7 +4,7 @@
 
 ## Glossary
 
-{:auto_ids}
+{:auto\_ids}
 
 AnnotationData package
 :   Type of Bioconductor package that provides databases of molecular annotations (e.g., genes, proteins, pathways).
@@ -56,7 +56,5 @@ _[Bioconductor website][bioconductor-website]_
 :   The official Bioconductor website.
 
 [biocviews-site]: https://www.bioconductor.org/packages/release/BiocViews.html
-
 [bioc-experimentdata]: https://www.bioconductor.org/packages/release/BiocViews.html#___ExperimentData
-
 [bioconductor-website]: https://bioconductor.org/
